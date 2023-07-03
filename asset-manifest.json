@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-resume-updated/static/css/main.1dc1d1af.css",
-    "main.js": "/react-resume-updated/static/js/main.f054f9d2.js",
+    "main.js": "/react-resume-updated/static/js/main.85c222f5.js",
     "static/media/skills.svg": "/react-resume-updated/static/media/skills.249aa6a3bc98afdb4b5e604c368790b1.svg",
     "static/media/social.svg": "/react-resume-updated/static/media/social.051c522e012262bf83948b7b19f7c137.svg",
     "static/media/hobbies.svg": "/react-resume-updated/static/media/hobbies.0d4a3f9a803d9477cce26aae66e9f2bc.svg",
@@ -45,10 +45,10 @@
     "static/media/move_list.svg": "/react-resume-updated/static/media/move_list.8245d15422a083b6f392fd190f328614.svg",
     "static/media/add.svg": "/react-resume-updated/static/media/add.3b33fbbe8793541d32f7e02377f06a06.svg",
     "main.1dc1d1af.css.map": "/react-resume-updated/static/css/main.1dc1d1af.css.map",
-    "main.f054f9d2.js.map": "/react-resume-updated/static/js/main.f054f9d2.js.map"
+    "main.85c222f5.js.map": "/react-resume-updated/static/js/main.85c222f5.js.map"
   },
   "entrypoints": [
     "static/css/main.1dc1d1af.css",
-    "static/js/main.f054f9d2.js"
+    "static/js/main.85c222f5.js"
   ]
 }
